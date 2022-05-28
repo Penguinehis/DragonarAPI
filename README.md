@@ -1,6 +1,24 @@
-# DragonarAPI
-Install Command: 
-# PT-BR <br>
+# Como Instalar PT-BR <br>
+<br>
+
+## Comando de instalação:<br><br>
+
+***wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash && export NVM_DIR="$HOME/.nvm" && [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" && [ -s "$NVM_DIR/bash_completion" ] && . "$NVM_DIR/bash_completion" && nvm install 16 && apt install git screen -y && git clone https://github.com/Penguinehis/DragonarAPI.git && cd DragonarAPI && npm i***
+
+## Comando Iniciar API:<br><br>
+<br>
+
+***Subistitua aonde está Chade De ativação pela sua chave, e aonde está Porta pela porta desejada*** 
+
+<br>
+
+***screen -dmS api node DAPIV1.js --token=ChaveDeAtivação --port=Porta***
+
+<br>
+Observação a chave de Ativação deve ser adquirida comigo no meu telegram https://t.me/sisudragon , só me enviar uma mensagem para consultar o preço
+
+<br><br>
+# Documentação PT-BR <br>
 <br>
 
 ## 1 - Nucleo checkUser <br>
