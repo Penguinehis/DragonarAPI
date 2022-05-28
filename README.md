@@ -37,11 +37,11 @@ tendo como resposta a quantia online no servidor em formato unico, segue o exemp
 <br>
 Este nucleo é para checkagem da integridade do sistema do API podendendo ser acessado como no exemplo abaixo: <br><br>
 
-***http://127.0.0.1:6888***
+***http://127.0.0.1:6888/servercheck***
 
 Ou em caso de ter ativado o HTTPS:<br><br>
 
-***https://127.0.0.1:6888***
+***https://127.0.0.1:6888/servercheck***
 
 <br><br><br>
 
