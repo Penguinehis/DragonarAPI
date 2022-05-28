@@ -1,0 +1,29 @@
+{
+  "checkOnline": false,
+  "OnlineFULL": false,
+  "checkUser2": true,
+  "Gtestuser": false,
+  "gettest": false,
+  "andley302": false,
+  "rgn": false,
+  "testpass": "120440",
+  "days": 2,
+  "limitssh": 2,
+  "usertext": "👤User",
+  "validtext": "⏳Validity",
+  "timetext": "⏳Time Left",
+  "timeformat": "pt-br",
+  "HTTPS": false,
+  "testuser": "👤User",
+  "passwordtest": "🔑Password",
+  "validtest": "⏳Days",
+  "html": {
+    "style_user": "font: 15px Arial, sans-serif; font-weight: bold; color:#ff0000;",
+    "style_valid": "font: 15px Arial, sans-serif; font-weight: bold; font-style: italic; color:#ff0000;",
+    "style_time": "font: 15px Arial, sans-serif; font-weight: bold; font-style: oblique; color:#ff0000;"
+  },
+  "limittest": "⚠️Limit Users",
+  "servers": {
+    "server1": "example:6888"
+  }
+}
