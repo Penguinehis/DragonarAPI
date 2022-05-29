@@ -57,11 +57,25 @@ Este nucleo é para checkagem da integridade do sistema do API podendendo ser ac
 
 ***http://127.0.0.1:6888/servercheck***
 
-Ou em caso de ter ativado o HTTPS:<br><br>
+Ou em caso de ter ativado o HTTPS:<br>
 
 ***https://127.0.0.1:6888/servercheck***
 
+## 5 - Nucleo  checkUser2 <br>
+<br>
+Este nucleo é para checkagem de validade via inframes ou sites, o mesmo depende da configuração feita no config.json, segue o exemplo de como é usado e o que é retornado: <br><br>
+
+***http://127.0.0.1:6888/checkUser2/EXEMPLO***
+
+Ou em caso de ter ativado o HTTPS:<br>
+
+***https://127.0.0.1:6888/checkUser2/EXEMPLO***
+
+<br>
+👤User: EXEMPLO<br>
+⏳Validity: 29/05/2022<br>
+⏳Time Left: 32<br>
 <br><br><br>
 
 # PENDENTE DE DOCUMENTAÇÃO
-## checkUser2 (get), OnlineFULL (get), Gtestuser (Post), gettest (get), getuser (get),
+ OnlineFULL (get), Gtestuser (Post), gettest (get), getuser (get),
