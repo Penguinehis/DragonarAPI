@@ -31,7 +31,7 @@ Tendo como respota a validade do usuario no formato Ymd , segue o exemplo abaixo
 
 ***20220527***
 
-## 2 - Nucleo checkUser2 <br>
+## 2 - Nucleo checkUser2 (post) <br>
 <br>
 Para ser usado o checkuser 4G é nescessario o uso de um POST no formato Json, segue o exemplo abaixo: <br><br>
 
@@ -61,7 +61,7 @@ Ou em caso de ter ativado o HTTPS:<br>
 
 ***https://127.0.0.1:6888/servercheck***
 
-## 5 - Nucleo  checkUser2 <br>
+## 5 - Nucleo  checkUser2 (get) <br>
 <br>
 Este nucleo é para checkagem de validade via inframes ou sites, o mesmo depende da configuração feita no config.json, segue o exemplo de como é usado e o que é retornado: <br><br>
 
